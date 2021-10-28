@@ -1,0 +1,74 @@
+/*===================================================================================
+
+    Template Name: 
+    Template URI: 
+    Description: 
+    Author: 
+    Author URI: 
+
+===================================================================================== 
+
+    ============================================= 
+    ============= CSS Index =====================
+    =============================================
+    1. theme default css
+    2. header css
+    3.
+    4.
+    5.
+    6.
+    7.
+    8.
+    9.
+    10.
+    11.
+    12.
+    13.
+    14.
+    15.
+
+===================================================================================*/
+
+/*=======================================
+======= 1. theme default css 
+=======================================*/
+
+body {
+    height: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+
+.logo a {
+    font-size: 24px;
+    color: #fff;
+}
+
+.header-bottom {
+    background: #999;
+}
+
+nav.main-menu ul {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.main-menu ul li {
+    display: inline-block;
+}
+
+.main-menu ul li a {
+    display: block;
+    color: #fff;
+    font-size: 16px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    text-align: center;
+}
